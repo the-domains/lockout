@@ -2,6 +2,7 @@ name: lockout
 favicon: null
 layout_spectrum: 0.8827248520683497
 typography_spectrum: 0.6166490416508168
+title: lockout
 cta:
   domain: null
   bucket: null
